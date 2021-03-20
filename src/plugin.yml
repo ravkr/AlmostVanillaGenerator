@@ -1,0 +1,6 @@
+name: AlmostVanillaGenerator
+main: pl.interia.rav_kr.almostvanillagenerator.Main
+version: 0.0.1
+author: "Rafał Pokrywka"
+api-version: "1.13"
+load: STARTUP
